@@ -68,7 +68,7 @@ while x == 1:
     num2 = enternum()
     num2 = float(num2)
     caclculation()
-    confirm = input("Would you like to perfrome another caclculation.(y/n)")
+    confirm = input("Would you like to perform another caclculation.(y/n)")
     if confirm == "y" or confirm == "Y":
         x = 1
     elif confirm == "n" or confirm == "N":
