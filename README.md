@@ -1,4 +1,4 @@
 # Calculator
-Python Calculator
-1) CLone repo
+Python Calculator - By: Svanik Dani
+1) Clone repo
 2) Run from cmd
