@@ -1,7 +1,6 @@
 
 """Calculator App Made by: Svanik Dani."""
 print('''
-
 ''')
 print("Starting Calculator")
 print("(Made by Svanik Dani)")
